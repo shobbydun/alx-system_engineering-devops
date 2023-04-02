@@ -1,0 +1,9 @@
+total 20
+drwxr-xr-x 2 root root 145 Apr  2 08:13 .
+drwxr-xr-x 6 root root 148 Apr  2 07:50 ..
+-rwxr--r-- 1 root root  32 Apr  2 07:42 0-hello_world
+-rwxr--r-- 1 root root  98 Apr  2 07:59 7-file
+-rwxr--r-- 1 root root  36 Apr  2 08:12 8-cwd_state
+-rw-r--r-- 1 root root  12 Apr  2 07:59 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   0 Apr  2 08:13 ls_cwd_content
+-rw-r--r-- 1 root root  10 Apr  2 07:51 README.md
